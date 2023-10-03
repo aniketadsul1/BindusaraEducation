@@ -7,3 +7,13 @@ F
 app/proguard-rules.pro,9\e\9e08934d811afe28fbc77aaa3c0d747b94348db9
 N
 bindusara keystore details.txt,0\7\0750fef1512bfcee10ed6183396f8128b3533e97
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+h
+8app/src/main/java/com/bindusaraeducation/MainActivity.kt,8\d\8d47f3b3e61b68de4fb20775efb418ebaea00d5e
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
